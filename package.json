@@ -9,5 +9,19 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
-  }
+  },
+  "description": "This project will require you to build classes for objects you might find in a Galvanize classroom! You will build five classes:",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekrath/oop-classroom.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/derekrath/oop-classroom/issues"
+  },
+  "homepage": "https://github.com/derekrath/oop-classroom#readme"
 }
