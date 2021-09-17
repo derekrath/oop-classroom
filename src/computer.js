@@ -5,6 +5,7 @@ class Computer {
 	this.processor = processor
 	this.memory = memory
 	this.graphics = graphics
+	"new line"
 }
 // power(on =false) {
 //     this.on=on;
