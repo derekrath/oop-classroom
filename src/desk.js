@@ -7,7 +7,8 @@ class Desk {
 		this.content = '';
 	}
 	write(string) {
-	    this.content.concat(content, string);
+	    // this.content.concat(content, string);
+        this.content += string;
 	}
     wipe() {
 		if (this.isWhiteboard === true) {
